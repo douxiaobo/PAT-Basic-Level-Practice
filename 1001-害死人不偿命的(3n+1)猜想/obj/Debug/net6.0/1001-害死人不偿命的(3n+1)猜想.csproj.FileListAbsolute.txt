@@ -1,0 +1,15 @@
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\bin\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.exe
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\bin\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.deps.json
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\bin\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.runtimeconfig.json
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\bin\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.dll
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\bin\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.pdb
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.csproj.AssemblyReference.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.AssemblyInfoInputs.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.AssemblyInfo.cs
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.csproj.CoreCompileInputs.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.dll
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\refint\1001-害死人不偿命的(3n+1)猜想.dll
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.pdb
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\1001-害死人不偿命的(3n+1)猜想.genruntimeconfig.cache
+C:\Users\a-xiaobodou\OneDrive - Microsoft\Projects\PAT-Basic-Level-Practice\1001-害死人不偿命的(3n+1)猜想\obj\Debug\net6.0\ref\1001-害死人不偿命的(3n+1)猜想.dll

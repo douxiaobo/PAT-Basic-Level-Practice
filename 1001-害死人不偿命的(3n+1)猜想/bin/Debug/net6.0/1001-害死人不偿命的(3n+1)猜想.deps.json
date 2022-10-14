@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "1001-害死人不偿命的(3n+1)猜想/1.0.0": {
+        "runtime": {
+          "1001-害死人不偿命的(3n+1)猜想.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1001-害死人不偿命的(3n+1)猜想/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
