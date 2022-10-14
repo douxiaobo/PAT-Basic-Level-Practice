@@ -13,6 +13,6 @@ int main()
             step++;
         }
     }
-    printf("%d",step);
+    printf("%d\n",step);
     return 0;
 }
